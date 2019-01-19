@@ -1,0 +1,11 @@
+<bibliotheque xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bibli.xsd">
+  <livre>
+		<titre>Dune</titre>
+		<auteur>Frank Herbert</auteur>
+  </livre>
+  <livre>
+		<titre>Démons et merverveilles</titre>
+		<auteurs>Lovecraft</auteurs>
+  </livre>
+  
+  </bibliotheque>
